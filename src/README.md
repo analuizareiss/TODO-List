@@ -37,6 +37,9 @@ Uma aplicação **TODO-List** (backend) em **Java**.
 
 O programa irá criar e utilizar o arquivo `tasks.csv` na raiz do projeto automaticamente para armazenar as tarefas.
 
+
+Projeto feito por: Ana Luiza Reis
+
 ## Observações
 
 - Para reiniciar as tarefas do zero, basta apagar o arquivo `tasks.csv`.
